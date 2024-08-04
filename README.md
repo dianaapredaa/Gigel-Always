@@ -1,6 +1,6 @@
 *Copyright Preda Diana 324CA 2022-2023*
 
-# PA Homework 2
+# Algorithm Design Assignment 2
 
 **Student:** *Preda Diana*
 
